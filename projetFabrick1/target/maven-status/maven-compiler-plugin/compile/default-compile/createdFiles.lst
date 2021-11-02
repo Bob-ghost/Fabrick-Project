@@ -1,0 +1,7 @@
+com\example\projetFabrick1\ServletInitializer.class
+com\example\projetFabrick1\repository\CompteRepository.class
+com\example\projetFabrick1\controller\Controller.class
+com\example\projetFabrick1\model\Bonifico.class
+com\example\projetFabrick1\model\Compte.class
+com\example\projetFabrick1\ProjetFabrick1Application.class
+com\example\projetFabrick1\controller\BonficoController.class
